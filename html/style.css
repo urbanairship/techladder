@@ -1,0 +1,10 @@
+section { 
+  max-width: 40em;
+  margin: auto;
+}
+
+nav { 
+  max-width: 10%;
+  left: 0;
+  position:fixed;
+}
