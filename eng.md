@@ -28,7 +28,7 @@ Ships features with limited but measurable customer impact
 
 ### Domain Knowledge
 
-Capable in one or more core problem domains: e.g., web, mobile, data, or systems programming; familiar with OO design, testing, and core development tools; able to work indepdently on basic projects
+Capable in one or more core problem domains: e.g., web, mobile, data, or systems programming; familiar with OO design, testing, and core development tools; able to work independently on basic projects
 
 ### Teaching and Mentoring
 
