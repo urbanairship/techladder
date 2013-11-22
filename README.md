@@ -1,6 +1,6 @@
 # What is this?
 
-This project describes a set of job titles for software engineers and their managers. It was developed by members of the engineering team at [Urban Airship](http://urbanairship.com/), but could be used as a starting point for your titles within another organization. The actual titles are in [the doc called 'eng'](eng.html).
+This project describes a set of job titles for software engineers and their managers. It was developed by members of the engineering team at [Urban Airship](http://urbanairship.com/), but could be used as a starting point for your titles within another organization. The actual titles are in [the doc called 'eng'](eng.md).
 
 # Why spend time on something so boring?
 
