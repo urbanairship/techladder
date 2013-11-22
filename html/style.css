@@ -1,10 +1,61 @@
-section { 
-  max-width: 40em;
-  margin: auto;
+a {
+  color: #25A6E4;
+  text-decoration: none
 }
 
-nav { 
-  max-width: 10%;
-  left: 0;
-  position:fixed;
+a:hover {
+  text-decoration: underline;
 }
+
+p a:visited {
+  color: #6BA9C7;
+}
+
+section.level1 {
+  text-align: justify;
+  vertical-align: top;
+  max-width: 37em;
+  padding-left: 20em;
+}
+
+section.level2 p
+{
+  text-align: left;
+  margin-left: 1em;
+}
+
+section.level2 h3 {
+  font-size: 1em;
+  margin-bottom: 0.2em
+}
+
+h2 {
+  margin-top: 1.5em;
+}
+
+h3 + p {
+  margin-top: 0em;
+}
+
+@media (max-width: 70em) {
+  nav {
+    padding-left: 1em
+  }
+
+  section.level1 {
+    padding-left: 1em
+  }
+}
+
+@media (min-width: 70em) {
+  section.level1 {
+    padding-left: 22em;
+  }
+
+  nav { 
+    max-width: 18em;
+    left: 0;
+    position: fixed;
+  }
+}
+

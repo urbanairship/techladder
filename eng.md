@@ -64,7 +64,7 @@ Understands customer needs and motivations; responds to escalated customer issue
 
 ## Lead Engineer
 
-**Management Equivalent**: Manager
+**Management Equivalent**: [Manager](#manager)
 
 ### Domain Knowledge
 
@@ -84,7 +84,7 @@ Helps to identify key gaps in product offerings and functionality that will driv
 
 ## Principal Engineer
 
-**Management Equivalent**: Senior Manager
+**Management Equivalent**: [Senior Manager](#senior-manager)
 
 ### Domain Knowledge
 
@@ -104,7 +104,7 @@ Able to anticipate and quickly adapt systems and practices to changes in load, u
 
 ## Distinguished Engineer
 
-**Management Equivalent**: Director
+**Management Equivalent**: [Director](#director)
 
 ### Domain Knowledge
 
@@ -124,7 +124,7 @@ Demonstrates deep understanding of customer needs and competitive landscape; abl
 
 ## Fellow
 
-**Management Equivalent**: Vice President
+**Management Equivalent**: [Vice President](#vice-president)
 
 Title bestowed only by action of exec staff and/or the board. Candidates should show all of the characteristics and skills of a distinguished engineer, as well as being critical to the success, reputation, and technical excellence of the entire engineering organization.
 
@@ -136,7 +136,7 @@ Good managers can do a lot to make their team successful, but part of successful
 
 ## Manager
 
-**Engineer Equivalent:** Lead Engineer
+**Engineer Equivalent:** [Lead Engineer](#lead-engineer)
 
 ### Scope and Impact
 
@@ -152,7 +152,7 @@ Aids product team in setting project scope and schedule; keeps team focused on q
 
 ## Senior Manager
 
-**Engineer Equivalent:** Principal Engineer
+**Engineer Equivalent:** [Principal Engineer](#principal-engineer)
 
 ### Scope and Impact
 
@@ -168,7 +168,7 @@ Understands and shows good judgement in deciding between engineering and custome
 
 ## Director
 
-**Engineer Equivalent:** Distinguished Engineer
+**Engineer Equivalent:** [Distinguished Engineer](#distinguished-engineer)
 
 ### Scope and Impact
 
@@ -184,7 +184,7 @@ Works with product and sales teams to broadly prioritize and scope work for cust
 
 ## Vice President
 
-**Engineer Equivalent:** Fellow
+**Engineer Equivalent:** [Fellow](#fellow)
 
 ### Scope and Impact
 
@@ -199,5 +199,7 @@ Identifies and addresses leadership needs for entire organization, including con
 Able to establish and maintain strong relationships with customers' technical and marketing leadership; supports long-term deal-building and success via broad engineering efforts and priorities
 
 ## Senior Vice President / CTO / CIO
+
+**Engineer Equivalent:** _n/a_
 
 Titles bestowed only by decision of exec staff and/or the board. Candidates should be exceptional in their experience, impact on the organization, and degree of sustained leadership and vision.
