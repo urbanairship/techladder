@@ -2,37 +2,17 @@
 
 These titles describe seniority along four main axes: domain knowledge, teaching and mentoring, culture and leadership, and customer success. Most industry ladders focus almost entirely on the first of these four, and expect anyone showing signs of good mentoring or leadership to move directly into management. This approach often takes very capable, happy engineers and turns them into mediocre, unhappy managers. That's bad for everyone involved.
 
-## Associate Engineer
+## Operations Admin
 
 **Management Equivalent**: _n/a_
 
 ### Domain Knowledge
 
-Basic CS skills; some knowledge of coding in one or more languages, and limited experience with web, mobile, or data programming
+Basic Linux system administration skills; basic understanding of configuration management systems; can create or augment the basic scripts used for automation and configuration; able to provide basic troubleshooting across the major parts of the stack; cable to work indepdently on basic projects.
 
 ### Teaching and Mentoring
 
-Able to present and discuss work with other engineers, and receptive to feedback and coaching from team
-
-### Culture and Leadership
-
-Shows independent initiative and problem solving, and respects team and company values
-
-### Customer Success
-
-Ships features with limited but measurable customer impact
-
-## Engineer
-
-**Management Equivalent**: _n/a_
-
-### Domain Knowledge
-
-Capable in one or more core problem domains: e.g., web, mobile, data, or systems programming; familiar with OO design, testing, and core development tools; able to work independently on basic projects
-
-### Teaching and Mentoring
-
-Provides detailed code reviews for teammates and helps document idioms and best practices; can help new hires and interns get up to speed with the team's style and existing code base
+Can help new hires and interns get up to speed with the team's style and existing tools and best practices.
 
 ### Culture and Leadership
 
@@ -42,37 +22,37 @@ Identifies quality and reliability issues in systems they maintain; seeks input 
 
 Consistently delivers systems and features that provide significant customer value
 
-## Senior Engineer
+## Operations Engineer
 
 **Management Equivalent**: _n/a_
 
 ### Domain Knowledge
 
-Proficient with UA engineering stack and preferred tools/style; able to design interfaces and reusable components for their own team; understands scaling, reliability, and maintenance trade-offs as they occur in practice
+Mid-to-high level Linux system administration; proficient with UA operations tools/style and contributes to new or updated tooling solutions; can provide troubleshooting across most parts of the stack; able to solve majority operational issues with the stack without escalation; participate in an on-call rotation.
 
 ### Teaching and Mentoring
 
-Consistently helps new hires and more junior engineers to "level up" and become more proficient over time; offers demos, talks, and recommendations to help their own team and others be more productive and ship better product
+Consistently helps new hires and more junior engineers to "level up" and become more proficient over time; offers demos, talks, and recommendations to help their own team and others be more productive; able to help other parts of the orginazation with integration and provisioning such that all best practices are adhered to.
 
 ### Culture and Leadership
 
-Helps to continuously maintain and improve quality across the stack; performs regular interviews for positions on the same team, providing detailed and useful feedback; takes on significant share of oncall duties, 5Y review, and other "housekeeping" tasks
+Helps to continuously maintain and improve quality across the stack; performs regular interviews for positions on the same team, providing detailed and useful feedback; takes on significant share of 5Y review and other "housekeeping" tasks
 
 ### Customer Success
 
 Understands customer needs and motivations; responds to escalated customer issues and incidents in a proactive, timely fashion; understands how engineering projects contribute to business goals
 
-## Lead Engineer
+## Lead Operations Engineer
 
-**Management Equivalent**: [Manager](#manager)
+**Management Equivalent**: Manager
 
 ### Domain Knowledge
 
-Well-versed in multiple key product components; able to define and contribute to systems in multiple areas of the product; up to date on evolving standards, platform features, and critical vendor and community-provided technologies
+High level Linux system administration; able to define, create and contribute to operations systems in multiple areas; up to date on evolving standards, platform features, and critical vendor and community-provided technologies; can provide troubleshooting across the entire stack; able to solve all but the most complext opertational issues without escalation; participates in an on-call rotation.
 
 ### Teaching and Mentoring
 
-Defines, documents, and evolves best practices for development in their team's area of focus; shepherds and aids in development of new projects across the organization; provides training and mentoring for multiple team members
+Assists in definition, documention, and evolution of best practices for system installation, configuration, troubleshooting, and monitoring; provides training and mentoring for multiple team members
 
 ### Culture and Leadership
 
@@ -82,17 +62,17 @@ Goes above and beyond basic requirements to support their own team and others; t
 
 Helps to identify key gaps in product offerings and functionality that will drive significant revenue and customer excitement; can take lead on non-trivial projects to address those needs
 
-## Principal Engineer
+## Principal Operations Engineer
 
-**Management Equivalent**: [Senior Manager](#senior-manager)
+**Management Equivalent**: Senior Manager
 
 ### Domain Knowledge
 
-Contributes to core technologies used by a variety of teams; helps to make critical product architecture and implementation decisions; helps to define and build out standards for how product features and services are built throughout the company
+Expert Linux system administration; defines and creates new tooling solutions; helps to make critical product architecture and implementation decisions; helps to define and build out standards for how product features and services are implemented; can suggest solutions for non-operational issues with services; participates in vendor and purchasing decisions; provide on-call escalation.
 
 ### Teaching and Mentoring
 
-Recognized by engineers in multiple teams as an expert mentor and teacher; consistently in demand for design and code review; regularly provides training and support for new methods, tools, and patterns
+Defines, documents, and evolves best practices for system installation, configuration, troubleshooting, and monitoring; Recognized by engineers in multiple teams as an expert mentor and teacher; consistently in demand for configuration and implementation review; regularly provides training and support for new methods, tools, and patterns
 
 ### Culture and Leadership
 
@@ -102,13 +82,13 @@ Builds tools, frameworks, and projects that improve productivity for many collea
 
 Able to anticipate and quickly adapt systems and practices to changes in load, usage, and customer requirements; works closely with engineering, product, and sales teams to ensure continued product/market fit; keeps entire team focused on important, high-value efforts
 
-## Distinguished Engineer
+## Distinguished Operations Engineer
 
-**Management Equivalent**: [Director](#director)
+**Management Equivalent**: Director
 
 ### Domain Knowledge
 
-Deep and broad knowledge of both current and emerging technologies that affect the business; core contributor to and maintainer of well-adopted libraries, tools, and services; expert in designing, implementing, and troubleshooting major portions of our production stack
+Deep and broad knowledge of both current and emerging technologies that affect the business; core contributor to and maintainer of well-adopted libraries, tools, and services; expert in implementing and troubleshooting major portions of our production stack
 
 ### Teaching and Mentoring
 
@@ -122,9 +102,9 @@ Takes central role in decision making for both technical and organizational issu
 
 Demonstrates deep understanding of customer needs and competitive landscape; able to estimate impact of and help lead efforts that significantly change product roadmap and footprint; plans and leads implementation efforts for major redesign, refactoring, and optimization efforts
 
-## Fellow
+## Operations Fellow
 
-**Management Equivalent**: [Vice President](#vice-president)
+**Management Equivalent**: Vice President
 
 Title bestowed only by action of exec staff and/or the board. Candidates should show all of the characteristics and skills of a distinguished engineer, as well as being critical to the success, reputation, and technical excellence of the entire engineering organization.
 
@@ -136,7 +116,7 @@ Good managers can do a lot to make their team successful, but part of successful
 
 ## Manager
 
-**Engineer Equivalent:** [Lead Engineer](#lead-engineer)
+**Engineer Equivalent:** Lead Engineer
 
 ### Scope and Impact
 
@@ -152,7 +132,7 @@ Aids product team in setting project scope and schedule; keeps team focused on q
 
 ## Senior Manager
 
-**Engineer Equivalent:** [Principal Engineer](#principal-engineer)
+**Engineer Equivalent:** Principal Engineer
 
 ### Scope and Impact
 
@@ -168,7 +148,7 @@ Understands and shows good judgement in deciding between engineering and custome
 
 ## Director
 
-**Engineer Equivalent:** [Distinguished Engineer](#distinguished-engineer)
+**Engineer Equivalent:** Distinguished Engineer
 
 ### Scope and Impact
 
@@ -184,7 +164,7 @@ Works with product and sales teams to broadly prioritize and scope work for cust
 
 ## Vice President
 
-**Engineer Equivalent:** [Fellow](#fellow)
+**Engineer Equivalent:** Fellow
 
 ### Scope and Impact
 
@@ -200,6 +180,5 @@ Able to establish and maintain strong relationships with customers' technical an
 
 ## Senior Vice President / CTO / CIO
 
-**Engineer Equivalent:** _n/a_
-
 Titles bestowed only by decision of exec staff and/or the board. Candidates should be exceptional in their experience, impact on the organization, and degree of sustained leadership and vision.
+

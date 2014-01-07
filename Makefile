@@ -1,11 +1,14 @@
 PANDOC:=pandoc --write=html5 --read=markdown --standalone -c style.css  --section-divs
-ENG_HTML:=html/eng.html
+_ORGS:=eng ops
+ORG_HTML:=$(patsubst %,%.html,$(_ORGS))
 
-index.html: README.md $(ENG_HTML)
-	$(PANDOC) README.md | awk '{ sub(/eng\.md/, "eng.html"); print }' > html/index.html
+index.html: README.md org_html
+	$(PANDOC) README.md | sed 's/\.md">/.html">/g' > html/index.html
 
-$(ENG_HTML): eng.md
-	$(PANDOC) --toc --toc-depth=2 eng.md > html/eng.html
+org_html: $(ORG_HTML)
+
+%.html: %.md
+	$(PANDOC) --toc --toc-depth=2 $^ > html/$@
 
 clean:
 	rm html/*.html
