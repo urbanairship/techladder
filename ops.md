@@ -8,7 +8,7 @@ These titles describe seniority along four main axes: domain knowledge, teaching
 
 ### Domain Knowledge
 
-Basic Linux system administration skills; basic understanding of configuration management systems; can create or augment the basic scripts used for automation and configuration; able to provide basic troubleshooting across the major parts of the stack; cable to work indepdently on basic projects.
+Basic Linux system administration skills; basic understanding of configuration management systems; can create or augment the basic scripts used for automation and configuration; able to provide basic troubleshooting across the major parts of the stack; capable of working indepedently on basic projects.
 
 ### Teaching and Mentoring
 
