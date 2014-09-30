@@ -20,7 +20,7 @@ Shows independent initiative and problem solving, and respects team and company 
 
 ### Customer Success
 
-Ships features with limited but measurable customer impact
+Ships features with limited but measurable impact to customers and/or the Customer Success group
 
 ## Engineer
 
@@ -40,7 +40,7 @@ Identifies quality and reliability issues in systems they maintain; seeks input 
 
 ### Customer Success
 
-Consistently delivers systems and features that provide significant customer value
+Consistently delivers systems and features that provide significant value to customers and/or the Customer Success group
 
 ## Senior Engineer
 
