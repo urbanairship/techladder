@@ -20,7 +20,7 @@ Identifies quality and reliability issues in systems they maintain; seeks input 
 
 ### Customer Success
 
-Consistently delivers systems and features that provide significant value to customers and/or the Customer Success group; responds to escalated customer issues and incidents in a proactive, timely fashion
+Consistently delivers systems and features that provide significant value to customers and/or other teams; responds to escalated customer issues and incidents in a proactive, timely fashion
 
 ## Operations Engineer
 
