@@ -20,7 +20,7 @@ Shows independent initiative and problem solving, and respects team and company 
 
 ### Customer Success
 
-Ships features with limited but measurable customer impact
+Ships features with limited but measurable impact to customers and/or other teams
 
 ## Engineer
 
@@ -40,7 +40,7 @@ Identifies quality and reliability issues in systems they maintain; seeks input 
 
 ### Customer Success
 
-Consistently delivers systems and features that provide significant customer value
+Consistently delivers systems and features that provide significant value to customers and/or other teams; responds to escalated customer issues and incidents in a proactive, timely fashion
 
 ## Senior Engineer
 
@@ -60,7 +60,7 @@ Helps to continuously maintain and improve quality across the stack; performs re
 
 ### Customer Success
 
-Understands customer needs and motivations; responds to escalated customer issues and incidents in a proactive, timely fashion; understands how engineering projects contribute to business goals
+Understands customer needs and motivations; understands how engineering projects contribute to business goals
 
 ## Lead Engineer
 
