@@ -20,7 +20,7 @@ Takes initiative to tackle tasks relevant to skill level; follows through on com
 
 ### Customer Success
 
-Understands importance of actions relative to ops availability and reliability; committed to delivvering consistently high quality service.
+Understands importance of actions relative to ops availability and reliability; committed to delivering consistently high quality service.
 
 ## Operations Engineer
 
@@ -68,7 +68,7 @@ Understands customer needs and motivations; responds to escalated customer issue
 
 ### Domain Knowledge
 
-High level Linux system administration; able to define, create and contribute to operations systems in multiple areas; up to date on evolving standards, platform features, and critical vendor and community-provided technologies; can provide troubleshooting across the entire stack; able to solve all but the most complext operational issues without escalation; participates in an on-call rotation.
+High level Linux system administration; able to define, create and contribute to operations systems in multiple areas; up to date on evolving standards, platform features, and critical vendor and community-provided technologies; can provide troubleshooting across the entire stack; able to solve all but the most complex operational issues without escalation; participates in an on-call rotation.
 
 ### Teaching and Mentoring
 
