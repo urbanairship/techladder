@@ -56,11 +56,11 @@ Consistently helps new hires and more junior engineers to "level up" and become 
 
 ### Culture and Leadership
 
-Helps to continuously maintain and improve quality across the stack; performs regular interviews for positions on the same team, providing detailed and useful feedback; takes on significant share of oncall duties, 5Y review, and other "housekeeping" tasks
+Helps to continuously maintain and improve quality across the stack; performs regular interviews for positions on the same team, providing detailed and useful feedback; takes on significant share of oncall duties, 5Y review, and other "housekeeping" tasks;
 
 ### Customer Success
 
-Understands customer needs and motivations; understands how engineering projects contribute to business goals
+Understands customer needs and motivations; understands how engineering projects contribute to business goals; embrases itterative product development
 
 ## Lead Engineer
 
@@ -72,15 +72,15 @@ Well-versed in multiple key product components; able to define and contribute to
 
 ### Teaching and Mentoring
 
-Defines, documents, and evolves best practices for development in their team's area of focus; shepherds and aids in development of new projects across the organization; provides training and mentoring for multiple team members
+Defines, documents, and evolves best practices for development in their team's area of focus; shepherds and aids in development of new projects across the organization; provides training and mentoring for multiple team members; constently working to improve process, remove roadblocks, and broaden the technical capabilities of their team
 
 ### Culture and Leadership
 
-Goes above and beyond basic requirements to support their own team and others; tackles hard debugging, incident response, and reverse-engineering tasks; regularly interviews candidates in a variety of engineering roles
+Goes above and beyond basic requirements to support their own team and others; tackles hard debugging, incident response, and reverse-engineering tasks; willing to take on the grungy work needed to get things done; regularly interviews candidates in a variety of engineering roles
 
 ### Customer Success
 
-Helps to identify key gaps in product offerings and functionality that will drive significant revenue and customer excitement; can take lead on non-trivial projects to address those needs
+Helps to identify key gaps in product offerings and functionality that will drive significant revenue and customer excitement; good communicator; very pragmatic; can take lead on non-trivial projects to address those needs
 
 ## Principal Engineer
 
@@ -88,19 +88,19 @@ Helps to identify key gaps in product offerings and functionality that will driv
 
 ### Domain Knowledge
 
-Contributes to core technologies used by a variety of teams; helps to make critical product architecture and implementation decisions; helps to define and build out standards for how product features and services are built throughout the company
+Contributes to core technologies used by a variety of teams; helps to make critical product architecture and implementation decisions; maintains a vision of the overall technical direction of the Product lines; helps to define and build out standards for how product features and services are built throughout the company
 
 ### Teaching and Mentoring
 
-Recognized by engineers in multiple teams as an expert mentor and teacher; consistently in demand for design and code review; regularly provides training and support for new methods, tools, and patterns
+Recognized by engineers in multiple teams as an expert mentor and teacher; consistently in demand for design and code review; regularly provides training and support for new methods, tools, and patterns; listens and encourages debate; always allow themselves to be persuaded by great ideas
 
 ### Culture and Leadership
 
-Builds tools, frameworks, and projects that improve productivity for many colleagues; sets a positive example throughout the company for quality and responsibility; helps define hiring standards and practices
+Builds tools, frameworks, and projects that improve productivity for many colleagues; sets a positive example throughout the company for quality and responsibility; clears roadblocks so their team can operate at 100%; helps define hiring standards and practices
 
 ### Customer Success
 
-Able to anticipate and quickly adapt systems and practices to changes in load, usage, and customer requirements; works closely with engineering, product, and sales teams to ensure continued product/market fit; keeps entire team focused on important, high-value efforts
+Able to anticipate and quickly adapt systems and practices to changes in load, usage, and customer requirements; works closely with engineering, product, and sales teams to ensure continued product/market fit; excells at the balance between doing it right and getting it done; resilient to changes in product priorities; keeps entire team focused on important, high-value efforts
 
 ## Distinguished Engineer
 
