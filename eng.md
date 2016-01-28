@@ -56,7 +56,7 @@ Consistently helps new hires and more junior engineers to "level up" and become 
 
 ### Culture and Leadership
 
-Helps to continuously maintain and improve quality across the stack; performs regular interviews for positions on the same team, providing detailed and useful feedback; takes on significant share of oncall duties, 5Y review, and other "housekeeping" tasks;
+Helps to continuously maintain and improve quality across the stack; performs regular interviews for positions on the same team, providing detailed and useful feedback; takes on significant share of oncall duties, 5Y review, and other "housekeeping" tasks
 
 ### Customer Success
 
@@ -80,7 +80,7 @@ Goes above and beyond basic requirements to support their own team and others; t
 
 ### Customer Success
 
-Helps to identify key gaps in product offerings and functionality that will drive significant revenue and customer excitement; good communicator; very pragmatic; can take lead on non-trivial projects to address those needs
+Helps to identify key gaps in product offerings and functionality that will drive significant revenue and customer excitement; good communicator; pragmatically plans minimum viable infrastructure for product launch; can take lead on non-trivial projects to address those needs
 
 ## Principal Engineer
 
@@ -96,7 +96,7 @@ Recognized by engineers in multiple teams as an expert mentor and teacher; consi
 
 ### Culture and Leadership
 
-Builds tools, frameworks, and projects that improve productivity for many colleagues; sets a positive example throughout the company for quality and responsibility; clears roadblocks so their team can operate at 100%; helps define hiring standards and practices
+Builds tools, frameworks, and projects that improve productivity for many colleagues; sets a positive example throughout the company for quality and responsibility; clears roadblocks so their team can operate at 100%; spreads knowledge of critical systems to team members; helps define hiring standards and practices
 
 ### Customer Success
 
