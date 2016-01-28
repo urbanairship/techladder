@@ -60,7 +60,7 @@ Helps to continuously maintain and improve quality across the stack; performs re
 
 ### Customer Success
 
-Understands customer needs and motivations; understands how engineering projects contribute to business goals; embrases itterative product development
+Understands customer needs and motivations; understands how engineering projects contribute to business goals; embraces iterative product development
 
 ## Lead Engineer
 
@@ -72,7 +72,7 @@ Well-versed in multiple key product components; able to define and contribute to
 
 ### Teaching and Mentoring
 
-Defines, documents, and evolves best practices for development in their team's area of focus; shepherds and aids in development of new projects across the organization; provides training and mentoring for multiple team members; constently working to improve process, remove roadblocks, and broaden the technical capabilities of their team
+Defines, documents, and evolves best practices for development in their team's area of focus; shepherds and aids in development of new projects across the organization; provides training and mentoring for multiple team members; constantly working to improve process, remove roadblocks, and broaden the technical capabilities of their team
 
 ### Culture and Leadership
 
@@ -100,7 +100,7 @@ Builds tools, frameworks, and projects that improve productivity for many collea
 
 ### Customer Success
 
-Able to anticipate and quickly adapt systems and practices to changes in load, usage, and customer requirements; works closely with engineering, product, and sales teams to ensure continued product/market fit; excells at the balance between doing it right and getting it done; resilient to changes in product priorities; keeps entire team focused on important, high-value efforts
+Able to anticipate and quickly adapt systems and practices to changes in load, usage, and customer requirements; works closely with engineering, product, and sales teams to ensure continued product/market fit; excels at the balance between doing it right and getting it done; resilient to changes in product priorities; keeps entire team focused on important, high-value efforts
 
 ## Distinguished Engineer
 
