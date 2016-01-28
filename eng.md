@@ -100,7 +100,7 @@ Builds tools, frameworks, and projects that improve productivity for many collea
 
 ### Customer Success
 
-Able to anticipate and quickly adapt systems and practices to changes in load, usage, and customer requirements; works closely with engineering, product, and sales teams to ensure continued product/market fit; excels at the balance between doing it right and getting it done; resilient to changes in product priorities; keeps entire team focused on important, high-value efforts
+Able to anticipate and quickly adapt systems and practices to changes in load, usage, and customer requirements; works closely with engineering, product, and sales teams to ensure continued product/market fit; finds the balance between doing it right and getting it done; resilient to changes in product priorities; keeps entire team focused on important, high-value efforts
 
 ## Distinguished Engineer
 
