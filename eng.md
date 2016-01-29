@@ -72,7 +72,7 @@ Well-versed in multiple key product components; able to define and contribute to
 
 ### Teaching and Mentoring
 
-Defines, documents, and evolves best practices for development in their team's area of focus; shepherds and aids in development of new projects across the organization; provides training and mentoring for multiple team members; constantly working to improve process, remove roadblocks, and broaden the technical capabilities of their team
+Defines, documents, and evolves best practices for development in their team's area of focus; shepherds and aids in development of new projects across the organization; provides training and mentoring for multiple team members; constantly working to broaden the technical capabilities of their team
 
 ### Culture and Leadership
 
@@ -96,7 +96,7 @@ Recognized by engineers in multiple teams as an expert mentor and teacher; consi
 
 ### Culture and Leadership
 
-Builds tools, frameworks, and projects that improve productivity for many colleagues; sets a positive example throughout the company for quality and responsibility; clears roadblocks so their team can operate at 100%; spreads knowledge of critical systems to team members; helps define hiring standards and practices
+Builds tools, frameworks, and projects that improve productivity for many colleagues; sets a positive example throughout the company for quality and responsibility; spreads knowledge of critical systems to team members; helps define hiring standards and practices
 
 ### Customer Success
 
