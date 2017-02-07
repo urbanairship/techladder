@@ -8,7 +8,7 @@ These titles describe seniority along four main axes: domain knowledge, teaching
 
 ### Domain Knowledge
 
-Basic computer science skills; some knowledge of coding in one or more languages, and some experience with web, mobile, or data programming, able to provide basic troubleshooting across the major parts of the stack; can follow SOPs accurately; knows when to seek assistance. Good written and verbal skills.
+Basic computer science skills; some knowledge of coding in one or more languages, and some experience with web, mobile, or data programming; able to provide basic troubleshooting across the major parts of the stack; can follow SOPs accurately; knows when to seek assistance. Good written and verbal skills.
 
 ### Teaching and Mentoring
 
