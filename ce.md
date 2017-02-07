@@ -4,8 +4,20 @@ These titles describe seniority along four main axes: domain knowledge, teaching
 
 ## Table of Contents 
   * [Associate Customer Engineer](#associate-customer-engineer)
+    * [Domain Knowledge](#domain-knowledge)
+    * [Teaching and Mentoring](#teaching-and-mentoring)
+    * [Culture and Leadership](#culture-and-leadership)
+    * [Customer Success](#customer-success)
   * [Customer Engineer](#customer-engineer)
+    * [Domain Knowledge](#domain-knowledge-1)
+    * [Teaching and Mentoring](#teaching-and-mentoring-1)
+    * [Culture and Leadership](#culture-and-leadership-1)
+    * [Customer Success](#customer-success-1)
   * [Senior Customer Engineer](#senior-customer-engineer)
+    * [Domain Knowledge](#domain-knowledge-2)
+    * [Teaching and Mentoring](#teaching-and-mentoring-2)
+    * [Culture and Leadership](#culture-and-leadership-2)
+    * [Customer Success](#customer-success-2)
 
 ## Associate Customer Engineer
 
