@@ -2,6 +2,11 @@
 
 These titles describe seniority along four main axes: domain knowledge, teaching and mentoring, culture and leadership, and customer success.
 
+## Table of Contents 
+  * [Associate Customer Engineers](#associate-customer-engineers)
+  * [Customer Engineer](#customer-engineer)
+  * [Senior Customer Engineer](#senior-customer-engineer)
+
 ## Associate Customer Engineers
 
 **Management Equivalent**: _n/a_
