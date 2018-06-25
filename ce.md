@@ -18,6 +18,11 @@ These titles describe seniority along four main axes: domain knowledge, teaching
     * [Teaching and Mentoring](#teaching-and-mentoring-2)
     * [Culture and Leadership](#culture-and-leadership-2)
     * [Customer Success](#customer-success-2)
+  * [Lead Customer Engineer](#lead-customer-engineer)
+    * [Domain Knowledge](#domain-knowledge-3)
+    * [Teaching and Mentoring](#teaching-and-mentoring-3)
+    * [Culture and Leadership](#culture-and-leadership-3)
+    * [Customer Success](#customer-success-3)
 
 ## Associate Customer Engineer
 
@@ -43,8 +48,6 @@ Responds to escalated customer issues and incidents in a proactive, timely fashi
 
 **Management Equivalent**: _n/a_
 
-Approx. 1+ years of experience on CE team or equivalent
-
 ### Domain Knowledge
 
 Competent in one or more Urban Airship core problem domains: e.g., web, mobile, data, etc.; familiar with object-oriented design, testing, and core development tools; able to work independently on basic projects. Knows how to collaborate with engineering and product to decide how a problem should be solved, and can take on bug-fixing tasks in our core products with some supervision.
@@ -65,8 +68,6 @@ Understands customer needs and motivations, and collaborates with other teams wh
 
 **Management Equivalent**: Manager
 
-Approx. 3+ years of experience on CE team or equivalent
-
 ### Domain Knowledge
 
 Proficient with UA engineering stack and preferred tools/style; able to design tools and automation for their own team and other teams; understands scaling, reliability, and maintenance trade-offs as they occur in practice; able to solve majority of customer issues without escalation. Represents interests of Customer Engineering well in cross-team projects.
@@ -82,3 +83,28 @@ Helps to continuously maintain and improve quality across internal and external 
 ### Customer Success
 
 Comfortable and effective in acting as the voice of the customer to Eng/Ops, and the voice of Eng/Ops to Customer Success. Focuses on automating CE and Customer Success tasks wherever possible to improve efficiency of both teams.
+
+## Lead Customer Engineer
+
+**Management Equivalent**: Senior Manager
+
+### Domain Knowledge
+
+Able to stand in for CE Manager at technical review meetings and process definition / improvements meetings; highly knowledgeable about areas of key importance that impact CE, CS, and our customers; capable of directing complex customer and / or technical issue triage and resolution. Can independently and successfully produce, assemble, and release regular CE reporting metrics/data including: uptime, production incident stats, etc.
+Well-versed in multiple key product components; able to define and contribute to systems in multiple areas of the product; up to date on evolving standards, platform features, and critical vendor and community-provided technologies.
+
+### Teaching and Mentoring
+
+Routinely leads advanced technical training talks for CE and groups beyond (CS, Eng, etc.), ellicits feedback, and develops trainings on new topics.
+Defines, documents, and evolves best practices for development in Customer Engineering; shepherds and aids in development of new projects across the organization; provides training and mentoring for multiple team members.
+
+### Culture and Leadership
+
+Regularly makes suggestions for and leads new CE team projects, cross-team projects; and architects and documents process changes. Leads CE team meetings when CE Manager is unavailable, meets regularly with VP Operations.
+Goes above and beyond basic requirements to support CE team and others; tackles hard debugging, incident response, and reverse-engineering tasks; regularly interviews candidates in a variety of Engineering/Customer Success roles.
+
+### Customer Success
+
+Handles many VIP customer direct communications and custom data analysis work; displays excellent judgement in making decisions and commitments to customers on behalf of the CE team.
+Communicates effectively with Engineering, Support, TAM, Account Management.  Participates on and can lead cross-organizational teams to address critical customer issues.
+Helps to identify key gaps in product offerings and functionality that will drive significant revenue and customer excitement; can take lead on non-trivial projects to address those needs.
