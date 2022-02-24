@@ -137,6 +137,8 @@ Most industry ladders focus almost entirely on the first of these four and expec
 
 ## Sr. Staff Engineer
 
+**Management Equivalent**: Manager
+
 ### Skills (knowledge) and scope
 * Understands deeply the entire architecture for a major part of our business and is able to articulate clearly the scaling and reliability limits of that area.
 * Contributes to architecture decisions, considering implications to other systems across the company.
@@ -165,6 +167,8 @@ Most industry ladders focus almost entirely on the first of these four and expec
 * Finds the balance between doing it right and getting it done.
 
 ## Principal Engineer
+
+**Management Equivalent**: Senior Manager
 
 ### Skills (knowledge) and scope
 * Helps make critical product architecture and design decisions working with peers and the architecture team. Designs for scale and reliability while thinking about the future of Airship’s stack and product direction. Can do critical R&D. 
@@ -197,6 +201,8 @@ Most industry ladders focus almost entirely on the first of these four and expec
 
 ## Distinguished Engineer
 
+**Management Equivalent**: Director
+
 ### Skills (knowledge) and scope
 * Deep and broad knowledge of both current and emerging technologies that affect the business. 
 * Focused on the highest impact, most critical, future-facing technical and product decisions providing guidance and advancing us technically towards business success. 
@@ -222,6 +228,8 @@ Most industry ladders focus almost entirely on the first of these four and expec
 * Looked to as a model for balancing product and engineering concerns. Trusted with any critical project or initiative. 
 
 ## Sr. Distinguished Engineer
+
+**Management Equivalent**: Senior Director
 
 Title bestowed only by action of exec staff. Candidates should show all of the characteristics and skills of a distinguished engineer, as well as being critical to the success, reputation, and technical excellence of the entire organization and not just technology. It is expected that this role will have influence outside the company with involvement in market assessment and M&A activities.
 
@@ -286,6 +294,10 @@ Coaches and develops managers; helps to define performance measurement tools and
 ### Customer Success
 
 Works with product and sales teams to broadly prioritize and scope work for customers; defines and restructures teams and initiatives as needed to best address customer needs
+
+## Senior Director
+
+TBD
 
 ## Vice President
 
