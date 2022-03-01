@@ -1,6 +1,6 @@
 # What is this?
 
-This project describes a set of job titles for software engineers, infrastructure admins and engineers, and their managers. It was developed by members of the technology team at [Airship](https://www.airship.com/), but could be used as a starting point for your titles within another organization. The actual titles are in [the doc called 'eng'](eng.md).
+This project describes a set of job titles for software and infrastructure engineers and their managers. It was developed by members of the technology team at [Airship](https://www.airship.com/), but could be used as a starting point for your titles within another organization. The actual titles are in [the doc called 'eng'](eng.md).
 
 # Why spend time on something so boring?
 
