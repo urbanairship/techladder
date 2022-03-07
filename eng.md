@@ -1,142 +1,259 @@
 # Individual Contributors
 
-These titles describe seniority along four main axes: domain knowledge, teaching and mentoring, culture and leadership, and customer success. Most industry ladders focus almost entirely on the first of these four, and expect anyone showing signs of good mentoring or leadership to move directly into management. This approach often takes very capable, happy engineers and turns them into mediocre, unhappy managers. That's bad for everyone involved.
+The below titles describe seniority along four main axes: 
+
+Skills (knowledge) and scope: (value Grit)
+* Technical skills
+* Domain knowledge
+* Contribution level and scope of work
+
+Collaboration and communication: (values Collaboration, Diversity)
+* Collaboration and interaction within and outside the team 
+* Communication both internal to team and external to cross-functional team
+
+Leadership and mentoring: (value Integrity)
+* Independence and self-direction
+* Coaching and mentoring
+* Culture impact within the team and across the company
+
+Customer success: (value Customers)
+* Product curiosity
+* Customer focus
+* Product and market landscape knowledge
+
+Expectations for each role along these dimensions are additive, which means you are expected to meet expectations for the role you are in and all the ones below your title.
+
+Most industry ladders focus almost entirely on the first of these four and expect anyone showing signs of good mentoring or leadership to move directly into management. This approach often takes very capable, happy engineers and turns them into mediocre, unhappy managers. That's bad for everyone involved.
 
 ## Associate Engineer
 
-**Management Equivalent**: _n/a_
+### Skills (knowledge) and scope
+* Basic CS skills and some knowledge of coding in one or more languages.
+* Focused on learning our stack, best practices, and codebase. 
+* Writes clean code and tests, iterating based on feedback. Participates in code reviews and technical design.
+* Works on scoped problems with guidance.
 
-### Domain Knowledge
+### Collaboration and Communication
+* Able to present and discuss work with other engineers, and receptive to feedback and coaching from the team.
+* Effectively communicates work status to teammates, program manager and manager.
+* Proactively asks questions and voices concerns or need for clarification from teammates and management.
 
-Basic CS skills; some knowledge of coding in one or more languages, and limited experience with web, mobile, or data programming
-
-### Teaching and Mentoring
-
-Able to present and discuss work with other engineers, and receptive to feedback and coaching from team
-
-### Culture and Leadership
-
-Shows independent initiative and problem solving, and respects team and company values
+### Leadership and Mentoring
+* Shows independent initiative and problem-solving, and respects team and company values. 
+* Has a project/team-level impact. 
+* Objectively evaluates whether they’ve met their goals.
 
 ### Customer Success
-
-Ships features with limited but measurable impact to customers and/or other teams
+* Ships features with limited but measurable impact to customers and other teams. 
+* Commits to and completes tasks within the expected time frame, holding themselves accountable. 
+* Builds estimation skills and continues to learn tools and technical stack
+* Participates in on-call rotation with support from their functional team.
 
 ## Engineer
 
-**Management Equivalent**: _n/a_
+### Skills (knowledge) and scope
+* Capable in one or more core problem domains: e.g., web, mobile, data, or systems programming. 
+* Focused on expanding proficiency in our code base with a solid understanding of some areas. 
+* Proficient with their team's recommended development tools.
+* Familiar with testing best practices, core development tools and can write code that their team feels is reasonably maintainable.
+* Scopes and implements project-level solutions with moderate guidance from senior members of  the product team. 
 
-### Domain Knowledge
+### Collaboration and Communication
+* Provides detailed code reviews for teammates. Helps document idioms and best practices. 
+* Reliably attends meetings, and proactively communicates in advance when they will be absent.
+* Communicates clearly and collaborates professionally with teammates and peers. 
+* Escalates blockers quickly, clarifying product requirements and sharing assumptions. 
+* Seeks feedback to improve and receives it well.
 
-Capable in one or more core problem domains: e.g., web, mobile, data, or systems programming; familiar with OO design, testing, and core development tools; able to work independently on basic projects
-
-### Teaching and Mentoring
-
-Provides detailed code reviews for teammates and helps document idioms and best practices; can help new hires and interns get up to speed with the team's style and existing code base
-
-### Culture and Leadership
-
-Identifies quality and reliability issues in systems they maintain; seeks input from teammates and outside experts on systems and feature design; collaborates well with product, support, and other teams
+### Leadership and Mentoring
+* Identifies quality and reliability issues in systems they maintain. Seeks input from teammates and outside experts on systems and feature design. 
+* Inspires teamwork. Trusts teammates and assumes good intent. Able to voice concerns in a constructive manner. Can disagree and commit.
+* Can help new hires and associate engineers get up to speed with the team's coding style and existing code base. 
 
 ### Customer Success
-
-Consistently delivers systems and features that provide significant value to customers and/or other teams; responds to escalated customer issues and incidents in a proactive, timely fashion
+* Consistently delivers systems and features that provide significant value to customers and other teams. 
+* Able to collaborate with senior project members to break down tasks, plan, estimate, and cut scope to ship on time. 
+* Responds to escalated customer issues and incidents in a proactive, timely fashion delivering good quality fixes.
+* Takes ownership of customer issues and participates in on-call rotation. 
 
 ## Senior Engineer
 
-**Management Equivalent**: _n/a_
+### Skills (knowledge) and scope
+* Proficient with Airship engineering stack and Airship’s  preferred tools and style. 
+* Able to design interfaces and reusable components for their project/team.
+* Independently scopes and implements solutions working with team leads and other senior members. 
+* Works with the team lead and architect to make well-reasoned design decisions that take into account potential issues, scaling and reliability concerns, maintenance trade-offs, and appropriate levels of abstraction. 
+* Debugs expertly within their primary focus area. 
 
-### Domain Knowledge
+### Collaboration and Communication
+* Builds relationships cross-functionally with outside teams. 
+* Communicates technical issues and decisions clearly and proactively to a cross-functional audience. 
+* Offers constructive code reviews, demos, talks, and recommendations to help their team and others be more productive and ship a better product. Suggest solutions to problems impacting the team.
 
-Proficient with UA engineering stack and preferred tools/style; able to design interfaces and reusable components for their own team; understands scaling, reliability, and maintenance trade-offs as they occur in practice
-
-### Teaching and Mentoring
-
-Consistently helps new hires and more junior engineers to "level up" and become more proficient over time; offers demos, talks, and recommendations to help their own team and others be more productive and ship better product
-
-### Culture and Leadership
-
-Helps to continuously maintain and improve quality across the stack; performs regular interviews for positions on the same team, providing detailed and useful feedback; takes on significant share of oncall duties, 5Y review, and other "housekeeping" tasks
+### Leadership and Mentoring
+* Participates in interview panels for positions on the same team, providing detailed and useful feedback. 
+* Consistently helps new hires and more junior engineers to "level up" and become more proficient over time. 
+* Helps to maintain and improve quality across the stack continuously. 
+* Accountable end-to-end from planning to deploy. Embraces iterative product development. 
+* Trusted to do what they say they will do and communicate promptly if there is an issue. Embraces significant challenges and can handle open-ended problems and ambiguity well.
 
 ### Customer Success
+* Understands customer needs and motivations. Understands how engineering projects contribute to business goals. 
+* Estimates methodically, based on iterative learning. Sets realistic deadlines and cuts scope as needed working with other senior members of the project team. Mitigates risk by shipping frequently and limiting change. 
+* Takes on a significant share of on-call duties, 5Y review, and other "housekeeping" tasks.
 
-Understands customer needs and motivations; understands how engineering projects contribute to business goals; embraces iterative product development
+## Staff Engineer
 
-## Lead Engineer
+### Skills (knowledge) and scope
+* Has a broad understanding of our architecture and systematically thinks through potential design impacts on other teams and our customers. 
+* Well-versed in multiple key product components.  Examples are : automation and delivery, composer and team access, iOS and Android.
+* Able to design and contribute to systems in numerous areas of the product. 
+* Facilitates technical decision making, leading work that affects one or more complex systems and mission-critical areas. 
+* Consistently delivers code that sets a high standard for quality and maintainability.
+* Can quickly estimate tasks and has a long proven track record of delivering on time.
+
+### Collaboration and Communication
+* Can successfully plan and execute projects involving multiple developers and complex requirements, prioritizing strategically. 
+* Defines, documents, and evolves best practices for development in their team's area of focus. 
+* Works with cross-functional stakeholders effectively to solve problems and make decisions.
+* Facilitates inclusive and productive discussion around complex issues. 
+* Trusted to always share status with all stakeholders and proactively remedy communication issues.
+
+### Leadership and Mentoring
+* Sought out as a mentor and provider of technical guidance, kind coaching.
+* Goes the extra mile to support their team and others.
+* Willing to take on the grungy work needed to get things done. 
+* Participates in interview panels for positions in a variety of engineering roles. 
+* Motivates and empowers teammates to achieve a higher level of performance.
+* Builds consensus for decisions and helps maintain resilience in periods of change.
+* Helps define hiring standards and practices.
+
+### Customer Success
+* Helps to identify key gaps in product offerings and functionality that will drive significant revenue and customer excitement. 
+* Tackles hard debugging, incident response, and reverse-engineering tasks. 
+* Pragmatically plans minimum viable infrastructure for product launch. 
+* Avoids monolithic deliverables and breaks down complex tasks quickly.
+* Uses analytics and product understanding to inform decisions and measure customer impact. 
+
+## Sr. Staff Engineer
 
 **Management Equivalent**: Manager
 
-### Domain Knowledge
+### Skills (knowledge) and scope
+* Understands deeply the entire architecture for a major part of our business and is able to articulate clearly the scaling and reliability limits of that area.
+* Contributes to architecture decisions, considering implications to other systems across the company.
+* Capable of debugging the hardest problems that the team encounters.
+* Quickly breaks down complex problems into potential solutions, knowns, and unknowns, in order to get to solid resolutions faster.
+* Focused on technical decision making, Can effectively sell their ideas to other engineers. 
+* They have a substantial track record of creating major improvements in large business-critical systems around stability, performance, and scalability.
 
-Well-versed in multiple key product components; able to define and contribute to systems in multiple areas of the product; up to date on evolving standards, platform features, and critical vendor and community-provided technologies
+### Collaboration and Communication
+* Defines, documents, and evolves best practices for multiple teams across the company.
+* Can influence without requiring reporting authority to do so. Can effectively facilitate cross-functional team work and are influential beyond your individual functional group.
+* Consistently in demand for design and code review.
+* Can drive groups of disparate interests to decisions. Clearly communicates and sees those decisions through to impact.
+* Capable of setting and communicating short- to medium-term strategic direction for part of the technology stack, identifying areas of critical need based on future growth.
+* Collaborate with product to hash out ambiguous requirements.
 
-### Teaching and Mentoring
-
-Defines, documents, and evolves best practices for development in their team's area of focus; shepherds and aids in development of new projects across the organization; provides training and mentoring for multiple team members; constantly working to broaden the technical capabilities of their team
-
-### Culture and Leadership
-
-Goes above and beyond basic requirements to support their own team and others; tackles hard debugging, incident response, and reverse-engineering tasks; willing to take on the grungy work needed to get things done; regularly interviews candidates in a variety of engineering roles
+### Leadership and Mentoring
+* Actively participates in conversations internally about the direction of major areas of the stack, drives wide-team consensus to the adoption of this direction, and uses this direction to inspire engineers
+* Seen as a role model and mentor to every technical member of your functional team
+* Acts as a multiplier by building systems, authoring tools, or introducing policies or patterns that raise the level of productivity across engineering.
+* Known for drama-free launches, and owns the technical testing and performance planning for those launches.
 
 ### Customer Success
-
-Helps to identify key gaps in product offerings and functionality that will drive significant revenue and customer excitement; good communicator; pragmatically plans minimum viable infrastructure for product launch; can take lead on non-trivial projects to address those needs
+* Seeks to fully understand our customers and how they use our systems. 
+* Knows how to identify/classify potential problems as edge cases so that we don’t have to focus on them and keeps development on the sunny path.
+* Finds the balance between doing it right and getting it done.
 
 ## Principal Engineer
 
 **Management Equivalent**: Senior Manager
 
-### Domain Knowledge
+### Skills (knowledge) and scope
+* Helps make critical product architecture and design decisions working with peers and the architecture team. Designs for scale and reliability while thinking about the future of Airship’s stack and product direction. Can do critical R&D. 
+* Contributes to core technologies used by a variety of teams and shared across products. Core contributor to and maintainer of well-adopted libraries, design patterns, tools, and services. Builds or directs work on tools, frameworks, and projects that improve productivity for many colleagues. 
+* Maintains a vision of the overall technical direction of the Product lines and feature themes. Helps to define and build out standards for how product features and services are built throughout the company. 
+* Provides oversight, coaching, and guidance through code and design reviews.
+* Expert in designing, implementing, and troubleshooting major portions of our production stack. 
+* Anticipates technical challenges, exploring alternatives and tradeoffs thoroughly.
+* Persistently debugs the toughest issues through the entire stack regardless of environment.
 
-Contributes to core technologies used by a variety of teams; helps to make critical product architecture and implementation decisions; maintains a vision of the overall technical direction of the Product lines; helps to define and build out standards for how product features and services are built throughout the company
+### Collaboration and Communication
+* Collaborates with co-workers across the org to design and document how systems work and interact. 
+* Drives a meaningful discussion around complex issues to satisfy customer and business needs and communicates resolution.
+* Regularly shares information and educates the team on new tools and design patterns
+* Ensures adequate communication is happening among team members and stakeholders related to technical solutions. 
+* Listens and encourages healthy debate. Creates opportunities for teams to buy into proposed solutions and provide feedback.
 
-### Teaching and Mentoring
-
-Recognized by engineers in multiple teams as an expert mentor and teacher; consistently in demand for design and code review; regularly provides training and support for new methods, tools, and patterns; listens and encourages debate; always allow themselves to be persuaded by great ideas
-
-### Culture and Leadership
-
-Builds tools, frameworks, and projects that improve productivity for many colleagues; sets a positive example throughout the company for quality and responsibility; spreads knowledge of critical systems to team members; helps define hiring standards and practices
+### Leadership and Mentoring
+* Recognized by engineers in multiple teams as an expert mentor and teacher. Leads by example and inspires others. 
+* Sets a positive example throughout the company for quality and responsibility. Routinely has an engineering-wide impact. 
+* Builds leaders within their domain. Spreads knowledge of critical systems to team members. 
+* Trusted to de-escalate conflicts and build consensus between team members about technical matters. 
 
 ### Customer Success
-
-Able to anticipate and quickly adapt systems and practices to changes in load, usage, and customer requirements; works closely with engineering, product, and sales teams to ensure continued product/market fit; finds the balance between doing it right and getting it done; resilient to changes in product priorities; keeps entire team focused on important, high-value efforts
+* Able to anticipate and quickly adapt systems and practices to changes in load, usage, and customer requirements. 
+* Can successfully plan and deliver complex, multi-team or multi-system, long-term projects, including ones with external dependencies. 
+* Considers larger company context and potential future implications between projects. 
+* Uses expertise in product space to make decisions. Identifies problems that need to be solved and advocates for their prioritization. 
+* Resilient to changes in product priorities. Able to reduce complexity and prioritize the most important work for the company.
 
 ## Distinguished Engineer
 
 **Management Equivalent**: Director
 
-### Domain Knowledge
+### Skills (knowledge) and scope
+* Deep and broad knowledge of both current and emerging technologies that affect the business. 
+* Focused on the highest impact, most critical, future-facing technical and product decisions providing guidance and advancing us technically towards business success. 
+* Creates a compelling technical vision with company-level impact, anticipating future needs. Plans and leads implementation efforts for major redesign, refactoring, and optimization efforts.
+* Respected leader and contributor across the company.
 
-Deep and broad knowledge of both current and emerging technologies that affect the business; core contributor to and maintainer of well-adopted libraries, tools, and services; expert in designing, implementing, and troubleshooting major portions of our production stack
+### Collaboration and Communication
+* Comfortably communicates complex issues to diverse audiences inside and outside the company. 
+* Technical spokesperson to describe our stack and architecture to external teams catering details to appropriate audience.
+* Often invited as a speaker to industry events. Maybe a published author on relevant technical topics.
 
-### Teaching and Mentoring
-
-Sought out by other employees as well as external teams and individuals as a mentor and educator; often invited as a speaker to industry events; may be a published author on relevant technical topics
-
-### Culture and Leadership
-
-Takes central role in decision making for both technical and organizational issues; helps to reconcile engineering POV with other groups; defines practices and processes that have an oversized, positive impact on the entire organization's output
+### Leadership and Mentoring
+* Takes a central role in decision making for both technical and organizational issues. 
+* Decisions have a direct impact on the long-term success or failure of Airship.
+* Helps to reconcile engineering POV with other groups. Works with the exec team on high-level technical guidance. 
+* Sought out by other employees as well as external teams and individuals as a mentor and educator. 
+* Defines practices and processes that have an oversized, positive impact on the entire organization's output. 
+* An expert on the company’s platform, architecture, and workflow. Leads complex initiatives with long-term, strategic value.
 
 ### Customer Success
+* Demonstrates a deep understanding of customer needs and the competitive landscape. 
+* Able to estimate the impact of and lead efforts that significantly change product roadmap and footprint to meet customer needs.
+* Looked to as a model for balancing product and engineering concerns. Trusted with any critical project or initiative. 
 
-Demonstrates deep understanding of customer needs and competitive landscape; able to estimate impact of and help lead efforts that significantly change product roadmap and footprint; plans and leads implementation efforts for major redesign, refactoring, and optimization efforts
+## Sr. Distinguished Engineer
 
-## Fellow
+**Management Equivalent**: Senior Director
 
-**Management Equivalent**: Vice President
+Title bestowed only by action of exec staff. Candidates should show all of the characteristics and skills of a distinguished engineer, as well as being critical to the success, reputation, and technical excellence of the entire organization and not just technology. It is expected that this role will have influence outside the company with involvement in market assessment and M&A activities.
 
-Title bestowed only by action of exec staff and/or the board. Candidates should show all of the characteristics and skills of a distinguished engineer, as well as being critical to the success, reputation, and technical excellence of the entire engineering organization.
+## Tech Lead Role
 
-_Note: it is obviously not ideal to have a gendered term for this level. This is the standard industry term, but pull requests containing a more universal identifier will be gleefully considered._
+* The tech lead role is not a point on the ladder, but a set of responsibilities that any engineer may take on once they reach the senior level. 
+* You will be working with team members to identify areas for learning and helping them grow in these areas via project work, external learning, or additional mentoring.
+* You will be responsible for the entire project and scale yourself by delegating work effectively without micromanaging. 
+* You should focus on the whole team’s productivity and strive to increase the impact of the team’s work product. 
+* It is not required that a Sr. or Staff Engineer should work as a tech lead to progress, but it is the most common way for engineers to grow to a Principal Engineer.
+
+## Engineering Lead Role
+
+This is a variation of the Tech Lead role which has people reporting responsibilities (less than 4 people). This role provides exposure and experience to people who are interested in moving to the management ladder in future. You will be expected to meet all the above requirements for “Tech Lead” role and in addition:
+* Undergo some form of management training at the company or outside.
+* Conduct regular 1:1 meetings with your team.
+* Provide feedback on career growth, progression towards goals, areas for improvement, and praise as warranted.
+* You will be writing performance reviews and participating in company review cycles.
 
 # Managers
 
 Good managers can do a lot to make their team successful, but part of successful management is learning to delegate and stop doing the technical work that you used to own. Day-to-day management work is very interrupt-driven, which makes it hard to consistently produce good code.
 
 ## Manager
-
-**Engineer Equivalent:** Lead Engineer
 
 ### Scope and Impact
 
@@ -152,8 +269,6 @@ Aids product team in setting project scope and schedule; keeps team focused on q
 
 ## Senior Manager
 
-**Engineer Equivalent:** Principal Engineer
-
 ### Scope and Impact
 
 Leads a larger (8+) team of engineers and/or managers; contributes to efforts that cut across teams and projects; improves quality of shared engineering processes such as hiring, planning, and operations
@@ -168,8 +283,6 @@ Understands and shows good judgement in deciding between engineering and custome
 
 ## Director
 
-**Engineer Equivalent:** Distinguished Engineer
-
 ### Scope and Impact
 
 Sets cross-team direction and helps to define global engineering goals; identifies and manages programs to benefit entire engineering group; sets staffing and budget expectations for multiple teams and functional roles
@@ -182,9 +295,11 @@ Coaches and develops managers; helps to define performance measurement tools and
 
 Works with product and sales teams to broadly prioritize and scope work for customers; defines and restructures teams and initiatives as needed to best address customer needs
 
-## Vice President
+## Senior Director
 
-**Engineer Equivalent:** Fellow
+TBD
+
+## Vice President
 
 ### Scope and Impact
 
